@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score
 
 @st.cache_data
 def main():
-    train = pd.read_csv(r"streamlit_for_NLP_project\final_train.csv")
+    train = pd.read_csv(r"final_train.csv")
     train = train.drop_duplicates()
     train = train.dropna()
     X = train['message']
