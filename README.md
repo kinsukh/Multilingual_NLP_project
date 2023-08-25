@@ -2,9 +2,7 @@
 
 This is a multilingual language translation system built using Streamlit. It takes a text input from the user and predicts the language of the text.
 
-You can check the Streamlit app from the below link
-
-[WebApp link](https://multilingualproject.streamlit.app/)
+You can check the Streamlit app from the below link : [WebApp link](https://multilingualproject.streamlit.app/)
 
 
 ## Code
